@@ -30,7 +30,7 @@
     "index": {
       "startDate": "2025-01-21T03:00:00.000Z",
       "endDate": "2025-01-28T03:00:00.000Z",
-      "text": "January Security Release is available",
+      "text": "January Security Releases are available",
       "link": "https://nodejs.org/en/blog/vulnerability/january-2025-security-releases",
       "type": "warning"
     }
